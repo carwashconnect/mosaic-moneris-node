@@ -1,0 +1,9 @@
+{
+    "name": "mosaic-moneris-node",
+    "version": "0.0.0",
+    "description": "A third party package to support Moneris using node.",
+    "main": "src/index.js",
+    "scripts": {},
+    "author": "Jeffrey Nelson <jeffrey@wearemosaic.ca>",
+    "license": "ISC"
+}
